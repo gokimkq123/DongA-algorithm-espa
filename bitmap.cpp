@@ -74,7 +74,7 @@ int main() {
         if(Map != '#') return 0;
 
         file >> n >> m;
-        file >> board;
+        file >> board;   // 이 부분 입출력 실수해서 못품;
 
         if(Map == 'B'){
             ans.clear();
