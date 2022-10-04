@@ -31,5 +31,4 @@ int main() {
         cout << -(v[0] + v[1]) + (v[n - 2] + v[n - 1]) << "\n";
 
     }
-    file.close();
 }
