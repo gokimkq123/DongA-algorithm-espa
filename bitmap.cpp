@@ -98,5 +98,4 @@ int main() {
         cout << "\n";
 
     }
-    file.close();
 }
